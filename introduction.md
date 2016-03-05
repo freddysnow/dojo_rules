@@ -1,1 +1,5 @@
-This is some introduction text. The best CodeSchool track was iOS.
+My skills are:
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
